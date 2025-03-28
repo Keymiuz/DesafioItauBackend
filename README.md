@@ -34,7 +34,7 @@ Projeto de backend desenvolvido em Java com Spring Boot, para o desafio técnico
 
 ### Como rodar a Aplicação??
 
-A aplicação pode ser rodada no ou utilizando Gradle com: ./gradlew bootRun ou com Maven: ./mvnw spring-boot:run (Eu estou usando o IntelliJ que já vem com o Maven e suas dependencias, recomendo você usar também).
+A aplicação pode ser rodada utilizando Gradle com: ./gradlew bootRun ou com Maven: ./mvnw spring-boot:run (Eu estou usando o IntelliJ que já vem com o Maven e suas dependencias, recomendo você usar também).
 
 
 
