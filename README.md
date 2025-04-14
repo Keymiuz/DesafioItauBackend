@@ -1,4 +1,4 @@
-*** 🟠 Desafio Itaú - Spring Boot API para Transações Financeiras ***
+ Desafio Itaú - Spring Boot API para Transações Financeiras 
 Projeto de backend desenvolvido em Java com Spring Boot, para o desafio técnico do Itaú. A API permite realizar transações financeiras e obter estatísticas resumidas dos últimos 60 segundos.
 ### 🚀 Tecnologias utilizadas:
 - **Java 23**
